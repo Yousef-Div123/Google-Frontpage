@@ -48,6 +48,9 @@
 #google-image
 {
     text-align: right;
+    position: absolute;
+    left: 64%;
+    top: 51%;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;   
     padding: 0px;
